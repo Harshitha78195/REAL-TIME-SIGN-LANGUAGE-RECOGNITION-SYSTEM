@@ -1,0 +1,10 @@
+__pycache__/
+*.csv
+*.exe
+*.docx
+*.pdf
+*.keras
+*.png
+*.tmp
+venv/
+tf-venv/
