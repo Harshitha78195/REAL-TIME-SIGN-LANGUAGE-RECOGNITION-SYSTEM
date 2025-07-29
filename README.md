@@ -23,7 +23,7 @@ The system uses the Sign Language MNIST dataset which contains:
 
 ```
 SIGN_LANGUAGE/
-├── sign_mnist_train.csv          # Training dataset
+├── sign_mnist_train.csv          # Training dataset(large dataset)
 ├── sign_mnist_test.csv           # Test dataset
 ├── amer_sign2.png               # Reference images
 ├── amer_sign3.png
@@ -33,6 +33,7 @@ SIGN_LANGUAGE/
 ├── hand_detection.py           # Hand detection and prediction
 ├── real_time_recognition.py    # Real-time recognition system
 ├── test_model.py              # Model evaluation tools
+├── output_images
 └── README.md                  # This file
 ```
 
